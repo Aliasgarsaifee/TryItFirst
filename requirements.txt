@@ -65,7 +65,7 @@ toml==0.10.1
 toolz==0.10.0
 torch
 torchvision
-tornado==5.1.1
+tornado==6.3.2
 tqdm==4.46.1
 traitlets==4.3.3
 tzlocal==2.1
